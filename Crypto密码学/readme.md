@@ -7,3 +7,11 @@
 **Base64_custom_byPython38.py**
 
 - 自定义Base64映射解码
+
+## Crypto(现代密码)
+
+### RSA
+
+**RSA_多因数_byPython38.py**
+
+- 当N可以被分解成多个质因数时解题脚本
