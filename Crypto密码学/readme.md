@@ -16,6 +16,10 @@
 
 - 当N可以被分解成多个质因数时解题脚本
 
-**Create RSA_dp_byPython38.py**
+**RSA_dp_byPython38.py**
 
 - 已知 n/e/dp/c，求m，其中dp ≡ d mod (p-1)
+
+**RSA_b64decode_byPython38.py**
+
+- 通过Base64=>byte=>long，获取c，再做RSA解密
