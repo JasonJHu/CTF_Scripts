@@ -23,3 +23,7 @@
 **RSA_b64decode_byPython38.py**
 
 - 通过Base64=>byte=>long，获取c，再做RSA解密
+
+**RSA_c1e1c2e2n_共模攻击_byPython38.py**
+
+- 已知 n/一组e/一组c,求m
