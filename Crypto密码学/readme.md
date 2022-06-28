@@ -27,3 +27,7 @@
 **RSA_c1e1c2e2n_共模攻击_byPython38.py**
 
 - 已知 n/一组e/一组c,求m
+
+**RSA_n1c1n2c2ep_模不互素_byPython38.py**
+
+- 已知n1c1和n2c2，以及e，其中n1和n2不互素，即存在最大公约数p
