@@ -8,6 +8,14 @@
 
 - 自定义Base64映射解码
 
+**Base64_toImage_byPython38.py**
+
+- 通过脚本提取Base64编码的图片
+
+**Base64嵌套解码_byPython38.py**
+
+- 自动嵌套对Base64系列编码进行解码
+
 ## Crypto(现代密码)
 
 ### RSA
