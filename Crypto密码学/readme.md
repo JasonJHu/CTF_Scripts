@@ -4,6 +4,10 @@
 
 ## Decode(解码)
 
+**ADFGX_decode_byPython38.py**
+
+- ADFGX爆破脚本
+
 **Base64_custom_byPython38.py**
 
 - 自定义Base64映射解码
