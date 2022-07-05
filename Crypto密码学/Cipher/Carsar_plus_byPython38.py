@@ -12,7 +12,7 @@ def carsar_decode(sCiper):
     for i in range(len(sCiper)):
         m = ord(sCiper[i])          # 将密文的第i个字母变为其ascii码值
         m = m + j                 # ascii值+j
-        sReturn.append(chr(m))           # 将递进后的ascii值存入列表lmstr[]
+        sReturn.append(chr(m))           # 将递进后的ascii值存入列表sReturn[]
         j += 1
     return ''.join(sReturn)
 
