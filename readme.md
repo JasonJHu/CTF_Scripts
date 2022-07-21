@@ -7,11 +7,13 @@
   
   - Cipher(古典密码)
 
-  - Crypto（现代加密）
+  - Crypto(现代加密)
 
 ---
 
 - Misc杂项
+
+  - Images(图片)
 
   - Steg(隐写)
 
