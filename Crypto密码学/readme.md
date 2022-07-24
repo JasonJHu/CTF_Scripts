@@ -8,6 +8,10 @@
 
 - ADFGX爆破脚本
 
+**bagua_decode_byPython3.py**
+
+- 八卦转二进制，转字符串
+
 **Base64_custom_byPython38.py**
 
 - 自定义Base64映射解码
