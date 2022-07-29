@@ -69,3 +69,7 @@
 **RSA_低指数攻击_小e_中国剩余定理_byPython38.py**
 
 -当e较小的时候，对几组nc进行低指数攻击
+
+**RSA_e和phi_N不互质.py**
+
+-当phi_n与e不互质时，先根据e/GCD(e,phi_n)求得中间的d和m,在对m进行GCD(e,phi_n)的爆破
